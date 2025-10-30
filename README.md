@@ -1,4 +1,5 @@
-## Développer S'inspirer Créer
+## Développer S'inspirer Créer 
+###### Samir Glaglou
 
 <!--
 **Sam3550/Sam3550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
